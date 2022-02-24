@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645705498 source:c:\users\timon\onedrive\documents\code blocks\elvisharon\elvis onyango\simple calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
